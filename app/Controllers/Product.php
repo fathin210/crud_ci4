@@ -103,5 +103,5 @@ public function delete($id)
         return redirect()->to(base_url('product'));
     }
 } 
-
+ 
 }
